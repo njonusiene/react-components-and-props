@@ -1,0 +1,30 @@
+body {
+  background: skyblue;
+  margin: auto;
+}
+
+header {
+  background: gold;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  border: none;
+}
+
+.white {
+  background: white;
+  color: black;
+}
+
+.black {
+  background: black;
+  color: white;
+}
